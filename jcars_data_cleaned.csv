@@ -1,0 +1,277 @@
+﻿CarDetails ID,Sum of Customer Age,Customer Name,Sum of Customer Rating,Customer Type,Delivery Date,Sum of Delivery Fee,Delivery Status,Sum of Discount,Lead Source,Count of Location ID,Sum of Logistic Cost,Order Date,Order ID,Payment Method,Payment Status,Returned,Sum of Revenue Recorded,Sum of Review Count,Sales Rep,Count of Specs ID,Sum of Unit Cost,Sum of Unit Selling Price,Sum of Units Sold,Sum of Vehicle Year,Car ID
+100,27,Peter Nyambura,4,Company,2026-03-28 00:00:00,60000,At Yard,0.05,Instagram,1,105000,2026-03-11 00:00:00,"",Bank,Pending,Yes,3906550,21,Brian Otieno,1,25246.15,4049000,1,2020,1
+101,33,Null,5,Government,2025-05-02 00:00:00,50000,Cancelled,0.15,Website,1,86000,2025-02-23 00:00:00,"",Cheque,Partially Paid,Yes,10716650,,Faith Achieng,1,3678000,4183000,3,2016,2
+102,23,Kevin Nyambura,4.2,Person,2025-01-17 00:00:00,86000,Delivered,0.1,Phone Call,1,97000,2025-01-11 00:00:00,"",Cheque,Paid,No,1019653.33,28,Peter Kiptoo,1,5817000,6874000,1,2017,3
+103,22,Daniel Mwangi,3.9,Non Profit,2025-02-21 00:00:00,38000,Delivered,0.1,Referral,1,58000,,"",Rtgs,Complete,Yes,1798400,32,Kevin,1,1547000,1960000,1,2019,4
+104,59,Brian Mwangi,4.7,Person,2026-07-11 00:00:00,164000,Delayed,,Instagram,1,,2026-06-19 00:00:00,1275,M-Pesa,Refunded,Yes,0,24,Mercy Atieno,1,4489000,5320000,3,2016,5
+105,44,Mercy Kariuki,2.4,Company,2026-06-23 00:00:00,580,Delivered,0.07,Instagram,1,,2026-05-27 00:00:00,1274,Bankers Cheque,Pending,Yes,14870000,41,Kevin,1,6126000,7948000,2,2026,6
+106,52,Brian Maina,4,N.G.O,2026-07-10 00:00:00,141000,In Transit,0.03,Walk-In,1,159000,2026-06-17 00:00:00,1273,M-Pesa,Paid,No,1290450,,Faith Achieng,1,948000,1185000,1,2023,7
+107,42,Winnie Kariuki,4.8,Government,2026-02-13 00:00:00,149000,Done,0.1,Instagram,1,126000,2026-01-18 00:00:00,1272,M-Pesa,Complete,No,3941600,42,Mary Wanjiku,1,3781000,,1,2025,8
+108,29,Kevin Mohamed,4,N.G.O,2026-06-05 00:00:00,807.69,Delayed,0.03,Referral,1,110000,2026-06-04 00:00:00,1271,Bank Transfer,Paid,No,3667810,21,Mercy Atieno,1,3088000,3673000,3,2025,9
+109,40,Faith Njeri,4.9,Non Profit,2025-04-30 00:00:00,30000,Delivered,,Facebook,1,57000,2025-04-29 00:00:00,1270,Cheque,Deposit Paid,No,,8,Samuel Mutua,1,2683000,3017000,2,2017,10
+110,,Brian Kariuki,3.3,Company,2026-04-22 00:00:00,109000,Delivered,,Referral,1,123000,,1269,Cheque,Paid,No,6249000,21,Aisha  Mohamed,1,4722000,6140000,3,2016,11
+111,29,James Njeri,3,Company,2025-06-19 00:00:00,169000,Completed,0.5,Corporate Tender,1,107000,2025-06-13 00:00:00,1268,Cheque,Paid,Yes,1226000,33,Mercy Atieno,1,,2114000,1,2025,12
+112,34,Samuel Mugambi,4.6,N.G.O,2026-01-29 00:00:00,17466.67,At Yard,0.03,Referral,1,160000,2026-01-09 00:00:00,1267,Asset Finance,Partially Paid,Yes,,5,Mary Wanjiku,1,2880000,3750000,1,2024,13
+113,22,Mary Mutua,2.1,Company,2025-05-04 00:00:00,34000,Cancelled,0,Corporate Tender,1,,2025-04-27 00:00:00,1266,Cheque,Cancelled,No,0,23,Samuel,1,5364000,5963000,2,2016,14
+114,63,Linda Wafula,2.1,Car Dealer,2026-01-02 00:00:00,0,Delivered,0.03,WhatsApp,1,172000,2025-12-27 00:00:00,1265,Asset Finance,Paid,No,3313800,42,Mary Wanjiku,1,,3240000,1,2023,15
+115,59,Grace Kiptoo,4,Government,2025-09-29 00:00:00,58000,In Transit,0.1,Facebook,1,56000,2025-09-21 00:00:00,1264,M-Pesa,Complete,No,3203500,15,Daniel Kimani,1,3038000,3495000,1,2016,16
+116,67,James Maina,3,Company,2026-03-23 00:00:00,152000,Cancelled,0.02,Referral,1,200000,2026-03-18 00:00:00,1263,Bank Transfer,Cancelled,No,,14,Mercy Atieno,1,3025000,3670000,2,2020,17
+117,41,Hassan Mutua,,N.G.O,2026-01-06 00:00:00,21000,Late,0.05,Walk-In,1,35000,2025-12-17 00:00:00,1262,M-Pesa,Partially Paid,No,9255950,36,Faith Achieng,1,8010000,64806.67,1,2023,18
+118,26,Linda Nyambura,,Car Dealer,2025-12-31 00:00:00,30000,Completed,0.25,Referral,1,70000,2025-12-05 00:00:00,1261,Asset Finance,Paid,Yes,962250,24,Mary Wanjiku,1,1000000,1283000,1,2026,19
+119,65,"",3.3,N.G.O,2025-09-22 00:00:00,18000,Delivered,0.15,Walk-In,1,54000,,1260,Asset Finance,Partially Paid,No,570925,2,Aisha Mohamed,1,931000,1183000,1,2020,20
+120,,Mercy Muthoni,2.7,Car Dealer,2025-05-07 00:00:00,104000,Delivered,0,Instagram,1,119000,2025-05-02 00:00:00,1259,M-Pesa,Pending,Yes,35818000,3,Peter Kiptoo,1,4109000,5102000,7,2022,21
+121,47,Mary Omondi,2.2,Car Dealer,2026-01-20 00:00:00,142000,Delivered,0.15,Website,1,144000,2026-12-01 00:00:00,1257,Wire,Cancelled,,0,,Peter  Kiptoo,1,1697000,1990000,1,2023,22
+122,30,Daniel Mugambi,2.1,Car Dealer,,0,Delayed,0.15,Website,1,83000,2025-05-29 00:00:00,1256,Cheque,Pending,No,11886.73,0,Mercy  Atieno,1,22184.62,3583000,1,2015,23
+123,25,Faith Nyambura,2,Car Dealer,2025-04-02 00:00:00,49000,Done,0.1,Referral,1,96000,2025-03-21 00:00:00,1255,Cheque,Partially Paid,Yes,,28,Grace,1,48061.54,7911000,-1,2016,24
+124,57,Naomi Otieno,4.2,Person,2025-04-30 00:00:00,137000,In Transit,0.1,Referral,1,103000,2025-04-10 00:00:00,1254,M-Pesa,Partially Paid,No,6193980,16,Faith Achieng,1,5461000,6132000,1,2018,25
+125,40,Peter Maina,4.1,Company,2025-03-18 00:00:00,18000,Cancelled,0.5,Corporate Tender,1,26000,2025-02-27 00:00:00,1253,Bank Transfer,Cancelled,Yes,0,12,Daniel Kimani,1,2632000,0,1,2020,26
+126,39,James Wafula,2.7,Government,,93000,At Yard,,Referral,1,116000,2025-01-23 00:00:00,1252,Asset Finance,Paid,Yes,4162679,14,Grace  Njeri,1,3530000,4376000,1,2023,27
+127,41,John Achieng,,Person,2025-05-05 00:00:00,152000,Completed,0.02,Phone Call,1,,2025-01-15 00:00:00,1251,Cheque,Paid,Yes,2040000,20,Samuel Mutua,1,1730000,1927000,1,2025,28
+128,56,Victor Maina,4.7,N.G.O,2025-08-26 00:00:00,34000,Completed,0.25,Phone Call,1,52000,,1250,Bank Transfer,Paid,,1365250,29,Daniel Kimani,1,1401000,1775000,1,2024,29
+129,57,Hassan Wanjiku,,Car Dealer,,40000,Cancelled,0.1,Referral,1,65000,2025-10-26 00:00:00,1249,Cheque,Cancelled,No,0,12,Brian Otieno,1,3923000,4349000,1,2016,30
+130,64,Joseph Omondi,4.4,Company,2025-12-09 00:00:00,164000,Done,0.02,Corporate Tender,1,225000,2025-11-11 00:00:00,1248,Cheque,Paid,,3539120,27,Brian  Otieno,1,2841000,3444000,1,2021,31
+131,52,Daniel Maina,4.5,Car Dealer,2025-01-30 00:00:00,0,Delivered,,Instagram,1,48000,2025-01-09 00:00:00,1247,Cheque,Paid,No,18931200,6,Daniel,1,5362000,6996000,3,2026,32
+132,31,"",4,Company,2025-06-02 00:00:00,106000,Delivered,,Website,1,170000,2025-05-30 00:00:00,1246,Asset Finance,Paid,Yes,1546600,44,Grace Njeri,1,,1470000,1,2022,33
+133,45,Brian Maina,4.3,Company,2025-11-24 00:00:00,746.67,Done,0.1,Website,1,,2025-10-29 00:00:00,1245,Cheque,Paid,Yes,3135770,30,Mercy  Atieno,1,2323000,3043000,1,2026,34
+134,36,Daniel Mwangi,4.9,N.G.O,2026-05-06 00:00:00,56000,Cancelled,0.02,Phone Call,1,,2026-04-19 00:00:00,1244,M-Pesa,Pending,No,1755320,17,Brian Otieno,1,1335000,1730000,1,2016,35
+135,58,Grace Kiptoo,4.9,Non Profit,2025-02-21 00:00:00,62000,Delivered,0,Walk-In,1,80000,2025-02-02 00:00:00,1243,Cheque,Complete,,1674500,20,Mercy Atieno,1,1852000,2150000,1,2022,36
+136,28,Kevin Wafula,2.6,Company,2026-04-04 00:00:00,79000,Delivered,0.03,Facebook,1,104000,2026-04-06 00:00:00,1242,Cheque,Awaiting Payment,Yes,38510400,43,Grace Njeri,1,4983000,5660000,7,2017,37
+137,66,Victor Kiptoo,3.6,Government,2025-11-15 00:00:00,31000,Cancelled,0.07,Phone Call,1,42000,2025-10-16 00:00:00,1241,Cheque,Cancelled,Yes,,12,Grace Njeri,1,3511000,4279000,1,2019,38
+138,46,Grace Njeri,3.2,N.G.O,2026-06-16 00:00:00,142000,Delayed,0.03,Website,1,165000,2026-05-30 00:00:00,1240,Loan,Refunded,Yes,0,1,Aisha,1,2102000,2597000,2,,39
+139,30,Grace Nyambura,4.7,Government,2026-06-01 00:00:00,438.46,At Yard,0.2,Walk-In,1,68000,2026-05-14 00:00:00,1239,Cheque,Paid,Yes,1072200,34,Grace Njeri,1,1085000,1269000,1,2021,40
+140,28,Mary Maina,2.4,N.G.O,,72000,Delayed,0.02,Facebook,1,80000,2025-10-24 00:00:00,1238,Cheque,Complete,Yes,5693280,1,Faith Achieng,1,4678000,5736000,1,2015,41
+141,41,Mercy Muthoni,3.2,Government,2026-04-11 00:00:00,54000,In Transit,0.05,WhatsApp,1,63000,2025-12-16 00:00:00,1237,Cheque,Paid,,486506.67,20,Daniel Kimani,1,3054000,0,1,2020,42
+142,36,Joy Kariuki,3.4,Company,2025-09-03 00:00:00,40000,Delivered,0,Walk-In,1,66000,2025-09-17 00:00:00,1236,M-Pesa,Paid,No,3676000,45,Kevin,1,2829000,3631000,1,2022,43
+143,67,Joseph Otieno,3.1,Person,2026-05-18 00:00:00,98000,Delivered,0.1,Corporate Tender,1,93000,2026-05-14 00:00:00,1235,Bankers Cheque,Paid,No,4065200,4,Peter Kiptoo,1,3370000,4408000,,2024,44
+144,47,Winnie Maina,3.1,Car Dealer,2025-11-04 00:00:00,25000,Done,0.05,Website,1,42000,2025-10-30 00:00:00,1233,M-Pesa,Paid,Yes,13222400,6,Grace Njeri,1,2750000,3473000,4,2025,45
+145,27,Kevin Wanjiku,4.3,N.G.O,2025-09-23 00:00:00,15000,Done,0,Website,1,14000,2025-08-28 00:00:00,1232,Cheque,Cancelled,Yes,0,39,Brian Otieno,1,1675000,1880000,1,2015,46
+146,67,Faith Mwangi,6,Person,2025-05-19 00:00:00,84000,Done,0.07,Facebook,1,73000,2025-05-16 00:00:00,1231,Bank Transfer,Cancelled,Yes,0,13,Daniel Kimani,1,1831000,,1,2017,47
+147,55,John Mugambi,3.6,Car Dealer,2025-05-19 00:00:00,846.15,Delivered,0.05,Referral,1,146000,2025-05-12 00:00:00,1230,Cheque,Pending,No,4653850,38,Brian Otieno,1,3640000,4783000,1,2015,48
+148,62,Linda Mutua,3,N.G.O,2026-05-31 00:00:00,19000,In Transit,0,WhatsApp,1,,2026-06-03 00:00:00,1229,M-Pesa,Paid,No,2400000,2,Mercy,1,932000,158533.33,2,2026,49
+149,65,Peter Mutua,4.2,Person,2025-07-07 00:00:00,46000,Delivered,0.12,WhatsApp,1,52000,2025-07-01 00:00:00,1227,Bank,Pending,Yes,3957600,27,Brian Otieno,1,3843000,4445000,1,2026,50
+150,121,Naomi Mutua,2.8,Company,2025-04-06 00:00:00,52000,Delivered,0.03,Phone Call,1,,2025-03-21 00:00:00,1224,Cheque,Paid,No,4843420,29,Faith Achieng,1,2208000,2443000,1,2024,51
+151,58,Winnie Njeri,2.5,Car Dealer,2026-04-28 00:00:00,83000,On The Way,0.12,Website,1,98000,2026-03-09 00:00:00,1223,Asset Finance,Refunded,Yes,737399,1,Kevin Mwangi,1,3684000,4102000,1,2025,52
+152,25,James Muthoni,4.7,N.G.O,2026-05-25 00:00:00,,Cancelled,0.05,Corporate Tender,1,94000,2026-05-03 00:00:00,1222,M-Pesa,Cancelled,No,0,35,Faith Achieng,1,3125000,3779000,1,2026,53
+153,62,Kevin Wanjiku,2.4,Non Profit,2025-12-14 00:00:00,145000,Cancelled,0.15,Instagram,1,175000,2025-12-05 00:00:00,1221,Cheque,Paid,,5966150,41,Daniel Kimani,1,6005000,7019000,1,2015,54
+154,42,Aisha Omondi,4.4,Person,2025-01-24 00:00:00,92000,Delivered,0.15,Website,1,673.33,2025-01-17 00:00:00,1220,Asset Finance,Paid,No,3782295,27,Brian Otieno,1,3540000,3937000,1,2015,55
+155,35,Victor Muthoni,3.1,Car Dealer,2025-05-09 00:00:00,116000,Delivered,0.02,Phone Call,1,177000,2025-05-21 00:00:00,1219,Bank,Complete,No,22070000,22,Peter,1,4957000,5601000,4,,56
+156,43,James Mugambi,2.8,Person,2026-06-22 00:00:00,35000,Completed,,WhatsApp,1,51000,2026-06-16 00:00:00,1218,M-Pesa,Paid,No,2707350,8,Faith Achieng,1,2332000,2755000,1,2022,57
+157,56,Mary Wanjiku,3.7,Government,2025-06-07 00:00:00,48000,At Yard,0.1,Walk-In,1,,2025-05-09 00:00:00,1217,Cheque,Pending,No,1055250,20,Grace Njeri,1,1638000,1875000,1,2016,58
+158,5,Mary Mohamed,4.6,Person,2025-09-06 00:00:00,12933.33,Delivered,,Phone Call,1,129000,2025-08-24 00:00:00,1216,Cheque,Paid,No,4596180,11,Aisha  Mohamed,1,30007.69,4591000,1,2023,59
+159,30,Unknown,4.7,N.G.O,2025-04-21 00:00:00,146000,Delivered,0.15,Corporate Tender,1,143000,2025-03-24 00:00:00,1215,M-Pesa,Paid,Yes,601066.67,39,Daniel Kimani,1,2032000,2480000,1,2023,60
+160,33,Naomi Maina,2.1,Government,2025-12-26 00:00:00,82000,In Transit,0.07,Facebook,1,104000,2025-12-12 00:00:00,1214,Cheque,Paid,No,5528080,19,Peter Kiptoo,1,1605000,1952000,3,2018,61
+161,61,Mercy Wanjiku,4.7,Car Dealer,2025-12-13 00:00:00,,Delivered,0.05,Instagram,1,153000,2025-11-17 00:00:00,1213,Loan,Paid,No,1379400,25,Grace Njeri,1,1088000,1312000,3,2016,62
+162,67,Brian Nyambura,2.3,Person,,,Done,0.05,WhatsApp,1,210000,2025-07-26 00:00:00,1211,Cheque,Paid,No,6749100,19,Grace Njeri,1,5906000,6918000,3,2019,63
+163,46,James Chebet,4.5,Car Dealer,2025-07-03 00:00:00,39000,Completed,,Instagram,1,50000,2025-07-08 00:00:00,1210,M-Pesa,Complete,,13927560,8,Faith Achieng,1,3868000,4724000,3,2017,64
+164,28,Kevin Otieno,4.3,Government,2025-10-24 00:00:00,40000,On The Way,0.15,Phone Call,1,73000,,1209,Cheque,Paid,No,1190875,0,Samuel  Mutua,1,2483000,2755000,1,2015,65
+165,5,Carol Maina,3.4,Retail,,-146000,Delayed,0.12,"",1,201000,2025-04-25 00:00:00,1208,Asset Finance,Pending,,3419856,11,Brian Otieno,1,17380,3367000,1,,66
+166,27,Mary Mutua,3.6,Government,2026-02-08 00:00:00,134000,Delivered,0.05,Corporate Tender,1,182000,2026-01-17 00:00:00,1207,Cheque,Paid,Yes,17709000,45,Brian Otieno,1,3590000,4625000,4,2023,67
+167,42,Faith Maina,3,Person,2025-09-26 00:00:00,166000,Delivered,,Referral,1,211000,2025-09-03 00:00:00,1206,M-Pesa,Paid,Yes,3208000,16,Grace Njeri,1,2319000,3042000,1,2017,68
+168,25,James Maina,2.4,Company,2026-04-07 00:00:00,160000,Delivered,0.02,Facebook,1,,2026-04-05 00:00:00,1205,Bank Transfer,Paid,No,1409500,41,Faith  Achieng,1,,170000,1,2015,69
+169,55,Mary Kiptoo,4.2,Company,2025-06-19 00:00:00,130000,Delivered,0.03,Instagram,1,181000,2025-05-26 00:00:00,1204,Cheque,Paid,No,4233100,32,Mercy Atieno,1,3526000,4230000,1,2015,70
+170,27,Aisha Mohamed,5,Company,2026-03-17 00:00:00,138000,In Transit,0.12,Corporate Tender,1,159000,2026-02-16 00:00:00,1203,Cheque,Paid,No,16202208,13,Aisha Mohamed,1,-4841000,5527000,3,2020,71
+171,58,Brian Wanjiku,2.8,Non Profit,2026-02-24 00:00:00,,Cancelled,0.12,Instagram,1,151000,,1201,Rtgs,Paid,No,6509080,-3,Mary,1,1598266.67,14682000,1,2018,72
+172,27,Peter Ochieng,3.2,Company,,141000,At Yard,0.05,Walk-In,1,137000,,1200,Rtgs,Partially Paid,No,12776000,36,Samuel Mutua,1,2241000,2660000,5,2015,73
+173,46,Daniel Kariuki,3.1,Car Dealer,2025-11-28 00:00:00,180000,Delivered,,Corporate Tender,1,252000,2025-11-16 00:00:00,1199,Cheque,Complete,No,6644360,0,Mercy  Atieno,1,1429000,1738000,4,2017,74
+174,57,Hassan Mwangi,2.7,Person,,23000,Cancelled,0.12,Instagram,1,60000,2025-10-27 00:00:00,1198,M-Pesa,Cancelled,No,,0,Faith Achieng,1,2401000,3028000,1,2026,75
+175,29,N/A,4.6,Person,2025-05-25 00:00:00,,At Yard,0,Referral,1,101000,2025-04-28 00:00:00,1197,Rtgs,Pending,No,11476200,33,Daniel Kimani,1,2814000,27315.38,4,2019,76
+176,37,James Mutua,2.7,Car Dealer,2025-01-13 00:00:00,41000,Cancelled,0.2,Referral,1,60000,2025-01-05 00:00:00,1195,Bank Transfer,Partially Paid,No,24780000,6,Mercy Atieno,1,3251000,3866000,8,2018,77
+177,53,Kevin Njeri,5,Person,,0,Delivered,0.1,WhatsApp,1,180000,2025-10-07 00:00:00,1194,Cheque,Paid,No,4306500,4,Peter  Kiptoo,1,4036000,4615000,1,2022,78
+178,68,Kevin Nyambura,2.1,Government,2026-02-11 00:00:00,42000,At Yard,0.05,WhatsApp,1,72000,2026-01-13 00:00:00,1193,Bank Transfer,Partially Paid,No,18532800,,Aisha Mohamed,1,5640000,,3,2019,79
+179,50,Mercy Kariuki,3.6,Car Dealer,2025-04-18 00:00:00,170000,Delivered,,Website,1,,2025-04-06 00:00:00,1192,M-Pesa,Deposit Paid,No,-2283399,15,Grace Njeri,1,9382000,122420000,1,,80
+180,58,Grace Otieno,-1,Person,2025-12-19 00:00:00,142000,Cancelled,0.05,Corporate Tender,1,223000,2025-11-27 00:00:00,1190,Bank Transfer,Cancelled,Yes,0,21,Grace Njeri,1,1277000,1458000,1,2026,81
+181,55,Hassan Omondi,3,Car Dealer,2026-01-22 00:00:00,18000,In Transit,0.07,Referral,1,32000,2025-12-28 00:00:00,1189,Asset Finance,Partially Paid,No,4350000,33,Daniel  Kimani,1,3891000,4661000,1,2023,82
+182,52,Peter Maina,4.8,N.G.O,2025-01-05 00:00:00,156000,In Transit,0.07,Instagram,1,233000,2025-02-01 00:00:00,1188,Bank Transfer,Paid,Yes,26653.38,,Daniel Kimani,1,3082000,3558000,1,2024,83
+183,26,Kevin Otieno,3.7,Government,2025-11-09 00:00:00,32000,On The Way,0.03,Corporate Tender,1,,2025-09-01 00:00:00,1187,M-Pesa,Cancelled,No,0,10,Faith Achieng,1,4789000,5620000,1,2021,84
+184,25,Aisha Mugambi,2.3,Person,2026-05-25 00:00:00,64000,Delivered,0.03,WhatsApp,1,61000,2026-05-06 00:00:00,1186,Wire,Deposit Paid,No,1366710,31,Mary Wanjiku,1,1126000,1343000,1,2023,85
+185,60,Victor Ochieng,3.8,Car Dealer,2025-10-13 00:00:00,74000,Delivered,,Website,1,111000,2025-10-07 00:00:00,1185,Asset Finance,Paid,No,9033000,11,Faith  Achieng,1,2265000,2635000,4,2021,86
+186,45,Linda Mwangi,4.6,Government,2026-09-05 00:00:00,300,Delivered,0.05,Facebook,1,76000,2026-04-12 00:00:00,1183,Bank Transfer,Paid,No,1454800,30,Aisha Mohamed,1,9000,1484000,1,2024,87
+187,23,John Kariuki,4.7,Government,2026-01-18 00:00:00,109000,Delayed,0.1,Phone Call,1,,2026-01-04 00:00:00,1182,M-Pesa,Partially Paid,No,3866500,13,Brian Otieno,1,3574000,4175000,1,2020,88
+188,39,Kevin Muthoni,2.5,Company,2026-02-27 00:00:00,60000,Delivered,0.1,Referral,1,62000,2026-02-18 00:00:00,1180,Bank Transfer,Paid,No,48274,0,Faith Achieng,1,6677000,7979000,1,2025,89
+189,25,John Kiptoo,4,Company,2026-04-04 00:00:00,33000,On The Way,0.1,Referral,1,60000,2026-03-10 00:00:00,1179,M-Pesa,Paid,No,2880600,17,Samuel Mutua,1,2506000,3164000,1,2020,90
+190,66,Carol Achieng,4.7,Government,,46000,Delivered,0.15,Instagram,1,52000,2025-11-18 00:00:00,1178,Cheque,Paid,No,20590500,9,Mary Wanjiku,1,4070000.0000000005,37184.62,,2017,91
+191,60,Unknown,,Car Dealer,2025-09-17 00:00:00,-67000,At Yard,0.07,Instagram,1,82000,,1177,M-Pesa,Paid,No,5286160,35,Brian Otieno,1,4319000,5612000,1,2025,92
+192,,James Wafula,3.4,Company,2025-12-30 00:00:00,,Cancelled,0.1,Instagram,1,52000,2025-12-20 00:00:00,1176,M-Pesa,Cancelled,No,1935020,16,Mary Wanjiku,1,1520000,1899000,1,2024,93
+193,56,Winnie Kiptoo,2.4,Person,2025-10-22 00:00:00,82000,Delivered,0.15,Facebook,1,96000,2025-10-03 00:00:00,1175,Cheque,Paid,No,1794750,12,Samuel Mutua,1,1676000,2015000,1,1899,94
+194,43,Joseph Kimani,2.4,N.G.O,2025-04-17 00:00:00,36000,Cancelled,0.1,Corporate Tender,1,57000,2025-03-29 00:00:00,1174,Asset Finance,Paid,No,1732500,41,Mercy  Atieno,1,1700000,1890000,1,2018,95
+195,48,Naomi Wanjiku,2.6,Person,,72000,Delivered,0.07,Instagram,1,76000,,1174,Bank Transfer,Partially Paid,No,2556030,5,Mary  Wanjiku,1,2387000,2671000,1,2016,96
+196,22,Joy Chebet,3.5,Company,2026-05-17 00:00:00,42000,Delivered,,Referral,1,58000,,1173,M-Pesa,Partially Paid,Yes,5779500,8,Brian Otieno,1,1105000,1275000,5,2018,97
+197,30,Aisha Kariuki,3.3,Company,2026-04-10 00:00:00,168000,Delivered,0.02,Referral,1,185000,,1172,Cheque,Partially Paid,No,4044880,37,Faith Achieng,1,3277000,3956000,3,2026,98
+198,47,Peter Ochieng,3.1,Government,2026-01-06 00:00:00,34000,Done,0.02,Instagram,1,5866.67,2026-05-27 00:00:00,1171,Cheque,Partially Paid,,9403780,24,Samuel Mutua,1,2661000,3187000,3,2017,99
+199,38,Aisha Mohamed,2,N.G.O,2026-12-06 00:00:00,140000,At Yard,0.12,Instagram,1,155000,2026-06-10 00:00:00,1170,M-Pesa,Refunded,Yes,0,12,Faith Achieng,1,1785000,267200,1,2025,100
+200,45,Faith Wafula,4.6,Government,2026-01-04 00:00:00,130000,Completed,0,Referral,1,127000,2025-12-21 00:00:00,1169,Bankers Cheque,Pending,No,,28,Brian Otieno,1,1798000,2200000,1,2025,101
+201,35,Carol Ochieng,2.5,N.G.O,2025-03-17 00:00:00,97000,Held,0.1,Phone,1,157000,,1167,Wire,Paid,Yes,1767400,24,Brian Otieno,1,1581000,,1,2021,102
+202,32,Grace Kimani,4.7,N.G.O,2025-09-26 00:00:00,168000,Delivered,0.05,Instagram,1,150000,2025-11-09 00:00:00,1166,Cheque,Pending,,4981650,33,Kevin  Mwangi,1,4499000,5067000,1,,103
+203,62,Naomi Mutua,4.9,Person,2025-06-26 00:00:00,170000,In Transit,0.05,WhatsApp,1,151000,2025-06-07 00:00:00,1165,M-Pesa,Pending,,5076750,38,Faith,1,4392000,5165000,3,,104
+204,48,James Kiptoo,4.8,Person,2026-04-02 00:00:00,16000,Delivered,0.07,Phone Call,1,153.33,2026-03-15 00:00:00,1164,Cheque,Unpaid,No,2288920,34,Aisha Mohamed,1,1994000,2444000,1,2020,105
+205,45,Winnie Muthoni,4.3,Car Dealer,2026-02-16 00:00:00,30000,In Transit,0.05,Corporate Tender,1,42000,2025-10-28 00:00:00,1163,Cheque,Paid,Yes,2869300,2,Grace Njeri,1,2670000,2990000,1,2015,106
+206,5,Peter Wanjiku,2.5,N.G.O,2025-07-15 00:00:00,38000,Delivered,0.25,Website,1,85000,2025-06-24 00:00:00,1162,Cheque,Pending,No,2581250,32,Mercy Atieno,1,2814000,3391000,1,2024,107
+207,41,Peter Maina,2.8,Person,,88000,Cancelled,0.07,Facebook,1,69000,2025-10-11 00:00:00,1161,Asset Finance,Cancelled,No,2084709,41,Daniel Kimani,1,1830000,2147000,1,2017,108
+208,31,Joseph Maina,2.8,Person,2025-08-29 00:00:00,69000,In Transit,0.1,Referral,1,67000,2025-08-01 00:00:00,1160,Cheque,Complete,Yes,-7479600,37,Mary Wanjiku,1,3198000,4117000,2,2023,109
+209,54,Grace Chebet,,Car Dealer,2025-02-05 00:00:00,70000,Delivered,0.07,Corporate Tender,1,129000,2025-01-21 00:00:00,1159,Bankers Cheque,Paid,No,7019890,35,Aisha Mohamed,1,6501000,7473000,1,2015,110
+210,61,Mary Mohamed,2.8,Company,2025-08-15 00:00:00,178000,Cancelled,0.1,Instagram,1,148000,2025-08-13 00:00:00,1158,Wire,Paid,No,6338500,32,Grace Njeri,1,5632000,6845000,1,2015,111
+211,51,Carol Ochieng,2.6,N.G.O,2025-08-31 00:00:00,138000,Done,0.05,WhatsApp,1,189000,2025-08-20 00:00:00,1157,Bank Transfer,Partially Paid,No,4936855,4,Grace Njeri,1,3919000,4579000,,2023,112
+212,0,James Wafula,5,Person,2025-06-16 00:00:00,163000,Delivered,0.1,Call,1,20000,2025-06-13 00:00:00,1156,Cheque,Partially Paid,No,1757800,27,Mary Wanjiku,1,1592000,,1,2021,113
+213,68,John Mutua,2.8,Company,2025-04-16 00:00:00,164000,Delivered,0.1,Website,1,233000,2025-03-28 00:00:00,1155,Bankers Cheque,Cancelled,Yes,-3368900,25,Samuel Mutua,1,3218000,3561000,1,2025,114
+214,61,Faith Mwangi,2.2,N.G.O,,94000,Cancelled,0,WhatsApp,1,,,1154,Bank Transfer,Paid,No,2736000,12,Daniel Kimani,1,2349000,2642000,1,2024,115
+215,63,Victor Maina,3.8,Car Dealer,2025-05-13 00:00:00,20000,Delivered,0.07,Referral,1,29000,2025-04-30 00:00:00,1153,Asset Finance,Complete,No,7545559,38,Aisha Mohamed,1,1653000,2023000,4,2024,116
+216,53,Mary Mohamed,2.8,Car Dealer,2025-08-30 00:00:00,68000,Delivered,0.05,Walk-In,1,103000,2025-08-21 00:00:00,1152,Bank Transfer,Pending,Yes,2538950,32,Peter Kiptoo,1,2350000,2601000,1,1899,117
+217,63,Winnie Njeri,3.5,Car Dealer,2025-07-24 00:00:00,119000,Cancelled,0.15,Facebook,1,130000,,1151,Bank Transfer,Cancelled,No,0,37,Aisha Mohamed,1,3534000,4338000,1,2016,118
+218,64,John Otieno,2.6,N.G.O,2025-04-17 00:00:00,84000,Delivered,0.05,Facebook,1,99000,2025-03-20 00:00:00,1150,Bank Transfer,Refunded,,5359350,10,Grace Njeri,1,4970000,5553000,1,,119
+219,26,Faith Mwangi,,Government,2026-03-08 00:00:00,60000,Cancelled,0.07,Call,1,50000,2026-10-03 00:00:00,1149,Cheque,Cancelled,No,0,12,Faith  Achieng,1,1573000,2014000,2,2026,120
+220,50,Victor Mwangi,,Person,2025-08-11 00:00:00,98000,At Yard,0.07,Phone Call,1,127000,2025-08-07 00:00:00,1148,Asset Finance,Paid,Yes,1998304,25,Brian Otieno,1,1479000,1848000,1,,121
+221,50,John Njeri,3.5,Person,2026-02-27 00:00:00,80000,Cancelled,0.2,Walk-In,1,124000,2026-02-20 00:00:00,1147,Cheque,Pending,No,4160800,34,Mercy Atieno,1,4424000,5101000,1,2018,122
+222,64,James Omondi,2.9,Company,2025-08-04 00:00:00,47000,At Yard,0.15,Referral,1,35000,2025-07-25 00:00:00,1146,Bankers Cheque,Pending,No,13035000,27,Samuel Mutua,1,1533000,,8,2017,123
+223,59,Mercy Mutua,4,N.G.O,2025-12-01 00:00:00,167000,Delivered,0,Phone Call,1,157000,,1145,Cheque,Paid,No,4952000,13,Aisha,1,,4952000,1,2019,124
+224,22,Linda Achieng,2.6,Government,,120000,Delivered,0.12,Facebook,1,98000,2025-08-23 00:00:00,1144,Cheque,Complete,No,3206160,26,Kevin Mwangi,1,2876000,26976.92,1,,125
+225,50,Joseph Mwangi,3.8,N.G.O,2025-05-06 00:00:00,90000,Completed,0.12,Walk-In,1,114000,2025-04-11 00:00:00,1143,M-Pesa,Partially Paid,Yes,1542880,32,Mercy Atieno,1,1489000,1651000,1,2017,126
+226,37,Grace Achieng,2.1,N.G.O,2026-06-10 00:00:00,121000,Delivered,0.05,Facebook,1,176000,2026-06-06 00:00:00,1142,Cheque,Paid,No,14870700,41,Faith Achieng,1,920533.33,7763000,2,2021,127
+227,29,John Nyambura,4.8,Company,2025-03-18 00:00:00,150000,Done,0.07,Instagram,1,178000,2025-02-27 00:00:00,1141,Cheque,Pending,No,9853620,26,Brian Otieno,1,8082000,80261.54,1,1899,128
+228,24,Grace Maina,2.2,Government,2025-09-05 00:00:00,116000,Delivered,0.1,Instagram,1,180000,2025-08-09 00:00:00,1140,Bank Transfer,Paid,No,2411000,,Kevin Mwangi,1,1126000,,2,2020,129
+229,32,Mary Omondi,4.1,Car Dealer,,84000,At Yard,0.05,Corporate Tender,1,100000,2025-10-26 00:00:00,1139,Cheque,Paid,No,5199750,37,Kevin Mwangi,1,4889000,5385000,1,2021,130
+230,31,John Mwangi,4.7,Company,2025-06-23 00:00:00,91000,In Transit,0.15,Website,1,122000,2025-05-29 00:00:00,1138,Cheque,Paid,No,3200000,9,Faith Achieng,1,3320000,3656000,1,2016,131
+231,35,Victor Maina,3.4,Person,2025-06-03 00:00:00,0,Delivered,0.5,WhatsApp,1,222000,2025-05-14 00:00:00,1137,Cheque,Paid,Yes,2684000,25,Mercy Atieno,1,4477000,5032000,1,2018,132
+232,62,Samuel Ochieng,3.6,Government,2026-07-11 00:00:00,125000,In Transit,0.12,Walk-In,1,160000,2026-06-19 00:00:00,1136,Cheque,Partially Paid,No,4403560,1,Samuel Mutua,1,,4862000,1,2022,133
+233,29,Brian Achieng,3.9,N.G.O,2025-03-06 00:00:00,68000,On The Way,0.15,Referral,1,54000,2025-02-23 00:00:00,1135,Bank,Paid,No,1750150,41,Peter  Kiptoo,1,1595000,2059000,1,2026,134
+234,44,Grace Nyambura,2.7,Government,,138000,Delivered,0.12,Phone Call,1,122000,2025-05-17 00:00:00,1134,Asset Finance,Paid,No,4417440,36,Mary Wanjiku,1,1329000,1621000,3,2021,135
+235,66,John Kariuki,4.2,N.G.O,2026-11-05 00:00:00,20000,Delivered,0.05,WhatsApp,1,47000,2026-04-24 00:00:00,1133,Asset Finance,Paid,No,49194800,35,Aisha  Mohamed,1,5806000,6468000,4,2026,136
+236,27,Mary Mugambi,4.9,Company,,140000,In Transit,0.03,Facebook,1,166000,2025-07-29 00:00:00,1132,M-Pesa,Paid,No,1945170,11,Faith Achieng,1,1483000,1861000,1,2023,137
+237,58,Victor Kiptoo,3.1,Non Profit,2025-07-09 00:00:00,19466.67,Delivered,0.12,Corporate Tender,1,,,1131,Rtgs,Paid,Yes,2760480,0,Mercy Atieno,1,2589000,2971000,1,2016,138
+238,,Faith Kiptoo,4.3,N.G.O,2026-01-30 00:00:00,85000,In Transit,0,Website,1,886.67,2026-01-27 00:00:00,1130,M-Pesa,Paid,No,2869200,8,Mercy  Atieno,1,2500000,3103000,1,2018,139
+239,25,Victor Mwangi,4.5,Government,2026-03-10 00:00:00,125000,Delayed,0.02,Instagram,1,142000,2026-02-28 00:00:00,1129,Cheque,Paid,No,3832560,13,Kevin Mwangi,1,3034000,3850000,2,2025,140
+240,47,Joseph Achieng,4.7,Car Dealer,2025-04-12 00:00:00,123000,Cancelled,0.12,Phone,1,168000,2025-04-03 00:00:00,1128,Asset Finance,Cancelled,No,9567160,16,Mary  Wanjiku,1,4418000,5366000,2,2019,141
+241,49,"",4.4,Car Dealer,2025-09-29 00:00:00,105000,Done,0.12,Facebook,1,121000,2025-09-13 00:00:00,1125,Asset Finance,Pending,No,4335160,-1,Daniel Kimani,1,4189000,4807000,1,2023,142
+242,67,James Kariuki,2.5,N.G.O,2026-03-17 00:00:00,130000,Delivered,0.03,Referral,1,,2026-03-08 00:00:00,1124,Bank Transfer,Pending,No,3565680,5,Samuel Mutua,1,3151000,3544000,1,2020,143
+243,50,Kevin Mutua,2.1,Company,2026-04-04 00:00:00,177000,In Transit,0.05,Walk-In,1,133000,2026-03-08 00:00:00,1123,Cheque,Partially Paid,No,4978300,3,Aisha  Mohamed,1,4030000,5054000,1,2026,144
+244,42,Faith Muthoni,3.7,Company,2025-08-04 00:00:00,132000,Delivered,0.03,Walk-In,1,141000,2025-07-31 00:00:00,1122,M-Pesa,Complete,,4900520,28,Brian,1,4095000,4916000,1,2016,145
+245,0,James Mohamed,3.5,Government,2025-11-14 00:00:00,40000,Delayed,0,Instagram,1,63000,2025-10-15 00:00:00,1121,M-Pesa,Partially Paid,No,4655070,14,Aisha Mohamed,1,2414000,3019000,2,2016,146
+246,50,Victor Mwangi,3.6,Non Profit,2026-06-24 00:00:00,90000,Cancelled,0,Referral,1,108000,2026-06-03 00:00:00,1120,M-Pesa,Paid,No,1252600,37,Grace Njeri,1,1159000,1320000,1,2016,147
+247,37,Linda Omondi,2.3,N.G.O,2026-06-23 00:00:00,120000,In Transit,0.15,Facebook,1,128000,2026-06-13 00:00:00,1119,Asset Finance,Paid,Yes,10558850,1,Daniel Kimani,1,10910000,12281000,1,2022,148
+248,45,Grace Otieno,2.9,Government,2025-12-13 00:00:00,67000,At Yard,0.12,Referral,1,99000,2025-12-01 00:00:00,1118,Cheque,Paid,No,3602840,32,Kevin Mwangi,1,3654000,4018000,1,2015,149
+249,30,Mary Nyambura,4.1,Company,2025-08-25 00:00:00,100000,In Transit,0,Phone,1,140000,2025-08-24 00:00:00,1117,Loan,Paid,No,4307000,19,Daniel Kimani,1,3246000,4205000,1,2024,150
+250,45,Aisha Wafula,4.7,Government,2026-04-09 00:00:00,11466.67,Delivered,0,Phone Call,1,119000,2026-03-16 00:00:00,1116,Cheque,Awaiting Payment,No,1962000,10,Aisha Mohamed,1,1669000,1876000,1,2025,151
+251,121,Joy Chebet,4,Car Dealer,2026-04-09 00:00:00,73000,At Yard,0,Website,1,116000,2026-03-13 00:00:00,1115,Cheque,Paid,No,41923.08,4,Brian Otieno,1,4429000,5377000,1,2025,152
+252,23,Hassan Mwangi,4.3,Government,2025-11-15 00:00:00,170000,In Transit,,Website,1,191000,2025-10-19 00:00:00,1114,Bank Transfer,Awaiting Payment,Yes,14282500,2,Kevin,1,2330000,2565000,5,2023,153
+253,44,Kevin Kariuki,2.1,N.G.O,2025-04-01 00:00:00,169000,Delivered,,Facebook,1,,2025-01-10 00:00:00,1113,Loan,Complete,No,1780000,33,Faith Achieng,1,1452000,1691000,1,2015,154
+254,33,James Chebet,3.9,Car Dealer,2026-06-03 00:00:00,52000,Delivered,0.1,Facebook,1,73000,,1112,Cheque,Paid,Yes,4793200,8,Mercy  Atieno,1,4117000,5268000,1,2019,155
+255,49,Hassan Mutua,4.7,Car Dealer,2025-11-29 00:00:00,111000,Delivered,,Facebook,1,128000,2025-11-02 00:00:00,1111,Loan,Paid,Yes,4955140,7,Kevin Mwangi,1,4111000,4943000,1,2018,156
+256,35,Brian Mohamed,4.6,Person,2025-04-07 00:00:00,162000,In Transit,0.1,Corporate Tender,1,159000,2025-06-10 00:00:00,1110,Cheque,Pending,Yes,1133226.67,8,Faith Achieng,1,3778000,29253.33,2,2017,157
+257,37,Brian Wafula,3.8,Car Dealer,2025-11-07 00:00:00,42000,In Transit,,Walk-In,1,55000,,1109,Cheque,Paid,No,6367500,11,Mary,1,5892000,7033000,1,2019,158
+258,51,Kevin Mohamed,3,Car Dealer,2025-03-30 00:00:00,160000,Delivered,,Walk-In,1,114000,2025-03-05 00:00:00,1108,Loan,Partially Paid,No,4319900,34,Grace Njeri,1,4313000,4894000,1,2018,159
+259,46,Hassan Ochieng,2.5,Person,,51000,Delivered,0.07,Facebook,1,90000,2026-03-25 00:00:00,1106,Cheque,Paid,No,16749149,15,Mary Wanjiku,1,5233000,46038.46,3,2017,160
+260,55,Daniel Maina,3,Company,2025-04-21 00:00:00,42000,In Transit,0.03,Walk-In,1,38000,2025-04-09 00:00:00,1104,Bank Transfer,Paid,,28099.6,10,Mary Wanjiku,1,3753000,4302000,1,2023,161
+261,64,Aisha Mutua,-1,Company,2026-04-30 00:00:00,59000,Delivered,0.12,Website,1,74000,2026-04-10 00:00:00,1103,Cheque,Complete,,4374520,6,Brian Otieno,1,4288000,4904000,1,2021,162
+262,68,Victor Ochieng,3.2,Person,2026-05-29 00:00:00,40000,Delayed,0.2,Instagram,1,40000,2026-05-03 00:00:00,1102,Cheque,Paid,Yes,2270200,4,Grace Njeri,1,,2789000,1,2018,163
+263,50,Carol Njeri,3.4,Government,2026-05-14 00:00:00,113000,In Transit,0.03,Website,1,146000,2026-04-21 00:00:00,1101,M-Pesa,Partially Paid,No,24126320,21,Brian Otieno,1,9527000,12378000,2,2015,164
+264,56,Mercy Nyambura,4,N.G.O,2026-05-20 00:00:00,37000,On The Way,0.1,Phone Call,1,48000,,1100,Asset Finance,Awaiting Payment,Yes,2459800,18,Samuel Mutua,1,1090000,1346000,2,2016,165
+265,65,N/A,2.5,Retail,2025-10-10 00:00:00,845000,Delivered,0.05,Walk-In,1,174000,2025-09-15 00:00:00,1099,Cheque,Paid,No,3698250,,Faith Achieng,1,2969000,3715000,1,2016,166
+266,56,Linda Achieng,4.2,Non Profit,2026-06-21 00:00:00,150000,Completed,0.15,Phone Call,1,203000,,1098,Bankers Cheque,Paid,No,1546150,20,Mary Wanjiku,1,1532000,1819000,1,,167
+267,28,Carol Wanjiku,2.5,Car Dealer,2026-03-16 00:00:00,141000,Delivered,0.15,Phone Call,1,204000,2026-01-11 00:00:00,1097,Cheque,Paid,No,3004650,20,Brian Otieno,1,0,3369000,1,2017,168
+268,31,Aisha Mutua,3,N.G.O,2025-10-06 00:00:00,115000,Delivered,0.03,Website,1,122000,2025-09-21 00:00:00,1096,M-Pesa,Paid,No,7129070,41,Mary,1,6304000,7231000,1,,169
+269,44,Linda Wanjiku,3.9,N.G.O,2025-05-19 00:00:00,153000,Cancelled,0.15,Tender,1,175000,2025-05-13 00:00:00,1095,Cheque,Deposit Paid,Yes,810900,6,Brian Otieno,1,1452000,1728000,1,2024,170
+270,40,Kevin Ochieng,2.7,Government,2025-05-13 00:00:00,38000,Delivered,0.1,Walk-In,1,62000,2025-04-21 00:00:00,1094,Bank Transfer,Paid,No,-12741500,44,Faith Achieng,1,3707000,47050000,3,2025,171
+271,51,Joy Wanjiku,4.5,Person,2025-07-21 00:00:00,131000,Delivered,0.2,WhatsApp,1,164000,2025-06-21 00:00:00,1093,Cheque,Pending,Yes,,19,Aisha Mohamed,1,5443000,7151000,1,2021,172
+272,60,Grace Wanjiku,3.5,Government,2025-11-30 00:00:00,153000,Held,0.02,Referral,1,100000,2025-11-05 00:00:00,1092,Bank Transfer,Paid,Yes,4802120,20,Faith Achieng,1,1998000,2372000,2,2026,173
+273,38,Winnie Achieng,3.5,Car Dealer,2025-12-12 00:00:00,142000,Delivered,0.02,Website,1,159000,2025-11-29 00:00:00,1091,Wire,Paid,No,3966930,24,Aisha Mohamed,1,2774000,3535000,1,2020,174
+274,25,Samuel Kiptoo,2.3,Car Dealer,2026-05-22 00:00:00,561.54,Delivered,0.15,Referral,1,78000,2026-05-06 00:00:00,1090,Cheque,Complete,No,4458150,43,Peter Kiptoo,1,4663000,5159000,1,2032,175
+275,45,Kevin Ochieng,3.2,Car Dealer,2026-02-04 00:00:00,97000,Cancelled,0.07,Corporate Tender,1,113000,2026-01-10 00:00:00,1089,Bankers Cheque,Cancelled,No,0,12,Grace Njeri,1,4188000,5144000,3,2020,176
+276,38,Joy Wafula,3.9,Car Dealer,2026-02-16 00:00:00,5200,At Yard,,Instagram,1,70000,2026-01-31 00:00:00,1088,M-Pesa,Paid,Yes,4362290,6,Mary Wanjiku,1,3415000,4460000,1,2018,177
+277,58,Faith Otieno,2.5,Person,2025-06-06 00:00:00,70000,Done,,Phone Call,1,96000,2025-06-04 00:00:00,1087,Bank Transfer,Paid,,3434340,24,Mercy,1,3046000,3433000,1,2019,178
+278,27,Mary Achieng,2.5,Company,2026-02-11 00:00:00,,In Transit,0.05,Call,1,89000,2026-01-31 00:00:00,1086,Bank Transfer,Paid,Yes,6595250,41,Grace Njeri,1,1203000,1375000,5,2016,179
+279,53,Mercy Mugambi,3.1,N.G.O,,99000,At Yard,0,Instagram,1,,2026-08-04 00:00:00,1086,Cheque,Paid,No,3521000,28,Mary Wanjiku,1,2880000,3422000,1,2024,180
+280,29,Aisha Achieng,3.6,Government,2025-04-01 00:00:00,62000,Delivered,0.5,Phone Call,1,9466.67,2025-03-13 00:00:00,1084,Cheque,Paid,No,2230000,23,Samuel Mutua,1,3484000,4332000,,2019,181
+281,52,Mary Otieno,3.4,N.G.O,2026-03-04 00:00:00,156000,Delivered,0.15,Phone Call,1,209000,2026-04-02 00:00:00,1082,Bank Transfer,Pending,No,14334000,11,Brian Otieno,1,3031000,3336000,5,2021,182
+282,,Linda Mutua,4.4,Car Dealer,2025-06-29 00:00:00,78000,Delivered,0.07,Facebook,1,129000,,1081,Cheque,Complete,Yes,3337650,31,Brian Otieno,1,2967000,3505000,1,2021,183
+283,37,Linda Mugambi,2.8,Company,2025-03-14 00:00:00,120000,At Yard,0.1,Website,1,110000,2025-03-28 00:00:00,1080,Cheque,Paid,No,2355100,38,Peter Kiptoo,1,1910000,2489000,1,2021,184
+284,46,John Muthoni,4,Government,2025-07-24 00:00:00,86000,Completed,0.07,Tender,1,120000,2025-07-23 00:00:00,1079,Asset Finance,Paid,Yes,4085929,29,Kevin  Mwangi,1,441466.67,4301000,1,2019,185
+285,58,Naomi Chebet,4.6,Government,,121000,Delayed,0.1,Referral,1,,2026-03-11 00:00:00,1078,M-Pesa,Partially Paid,No,4215100,10,Mercy Atieno,1,4065000,4549000,1,2021,186
+286,38,James Otieno,4.8,Car Dealer,2025-12-15 00:00:00,22000,Cancelled,0,Referral,1,,2025-11-25 00:00:00,1077,Asset Finance,Paid,No,5360000,10,Aisha Mohamed,1,1447000,1778000,,,187
+287,25,Samuel Kimani,4.4,Car Dealer,2025-12-25 00:00:00,136000,At Yard,,Facebook,1,204000,2025-11-30 00:00:00,1076,Bank,Paid,No,4381400,26,Daniel Kimani,1,1841000,2283000,1,2019,188
+288,49,Samuel Njeri,3.3,Car Dealer,2026-01-13 00:00:00,155000,At Yard,0.02,Instagram,1,230000,2025-12-23 00:00:00,1075,Cheque,Paid,No,19073080,26,Mercy Atieno,1,7362000,9573000,1,2023,189
+289,63,Aisha Chebet,3.9,Car Dealer,2025-08-14 00:00:00,16000,Delivered,0.05,Facebook,1,42000,2025-08-10 00:00:00,1074,Cheque,Paid,No,9137900,35,Mary Wanjiku,1,3814000,640133.33,2,2018,190
+290,47,Joy Kariuki,2.6,Government,2025-11-08 00:00:00,109000,Completed,0.12,Instagram,1,155000,2025-10-19 00:00:00,1073,Asset Finance,Partially Paid,Yes,6562920,4,Brian Otieno,1,,3667000,2,2025,191
+291,35,Hassan Omondi,4.7,Company,2025-07-11 00:00:00,132000,In Transit,0.02,Facebook,1,,2025-07-08 00:00:00,1072,Bank,Pending,Yes,3816800,,Grace Njeri,1,3012000,3760000,1,2018,192
+292,22,Mercy Achieng,-1,Person,,74000,Cancelled,0.1,Website,1,102000,2025-07-04 00:00:00,1071,Asset Finance,Cancelled,No,-5205500,29,Daniel,1,3928000,31100,2,2018,193
+293,23,Aisha Mugambi,4.7,Government,2025-07-23 00:00:00,615.38,Delivered,0.12,Instagram,1,111000,2025-07-11 00:00:00,1070,Cheque,Paid,No,7014400,9,Daniel Kimani,1,,1970000,4,2021,194
+294,28,Winnie Mohamed,4.8,Car Dealer,2026-03-06 00:00:00,33000,Delayed,0.12,Facebook,1,83000,2026-02-21 00:00:00,1069,Asset Finance,Complete,Yes,7176840,23,Kevin Mwangi,1,25384.62,4059000,2,2019,195
+295,31,Mary Maina,2.4,Government,2025-11-11 00:00:00,307.69,Delivered,0.07,Facebook,1,0,2025-11-07 00:00:00,1068,Cheque,Paid,No,233121.33,39,Aisha  Mohamed,1,1619000,1837000,1,2018,196
+296,29,Daniel Kimani,4.7,Person,2025-01-31 00:00:00,,Delayed,0.05,Walk-In,1,140000,2025-01-01 00:00:00,1067,Bank Transfer,Pending,No,1916500,8,Mercy  Atieno,1,1523000,252000,1,2020,197
+297,23,Faith Achieng,3.5,Government,2026-03-08 00:00:00,121000,Delivered,0,Phone Call,1,120000,2026-03-04 00:00:00,1066,Loan,Pending,No,2086000,42,Daniel Kimani,1,1712000,1965000,1,2026,198
+298,56,Daniel Achieng,4.8,Car Dealer,2026-02-26 00:00:00,35000,Cancelled,0.12,Corporate Tender,1,23000,2026-02-15 00:00:00,1065,M-Pesa,Cancelled,No,0,34,Daniel  Kimani,1,3650000,4227000,4,2023,199
+299,40,Naomi Mwangi,4.7,Government,2025-08-26 00:00:00,23000,Delivered,0.07,Facebook,1,50000,2025-08-17 00:00:00,1064,M-Pesa,Complete,Yes,4241480,29,Grace,1,3584000,4536000,1,2018,200
+300,56,Naomi Ochieng,4.3,Person,2025-03-26 00:00:00,172000,Delivered,0.03,Phone,1,169000,2025-03-01 00:00:00,1063,M-Pesa,Complete,Yes,6070000,21,Samuel Mutua,1,4827000,5509000,1,2025,201
+301,32,N/A,4.1,Car Dealer,2025-03-25 00:00:00,104000,Delivered,0.15,Phone Call,1,143000,2025-02-27 00:00:00,1062,Cheque,Paid,No,1932040,14,Faith,1,0,1944000,1,2016,202
+302,55,James Kiptoo,2.6,Government,2025-04-03 00:00:00,41000,At Yard,0,Instagram,1,60000,2025-03-15 00:00:00,1061,M-Pesa,Pending,No,11878000,6,Peter  Kiptoo,1,10733000,91053.85,1,,203
+303,33,Mary Mwangi,3.5,Car Dealer,2026-06-25 00:00:00,32000,Delayed,,Corporate Tender,1,62000,,1060,Bank Transfer,Paid,No,7080000,24,Faith Achieng,1,3117000,23493.33,2,2022,204
+304,53,Peter Kimani,5,N.G.O,2025-01-24 00:00:00,90000,Delivered,0.03,WhatsApp,1,153000,2025-01-03 00:00:00,1059,Asset Finance,Partially Paid,No,3582000,32,Daniel Kimani,1,921000,1200000,3,2017,205
+305,55,Joseph Wanjiku,4.2,Person,2026-01-14 00:00:00,105000,Delayed,0.02,Corporate Tender,1,124000,2025-12-23 00:00:00,1058,Cheque,Paid,No,4240600,37,Mercy  Atieno,1,3756000,4220000,1,2026,206
+306,44,Daniel Achieng,4.7,Car Dealer,2025-02-13 00:00:00,149000,Delivered,0,Instagram,1,171000,2025-02-11 00:00:00,1057,Cheque,Paid,No,5845000,18,Faith Achieng,1,1219000,1424000,0,2023,207
+307,63,Daniel Achieng,2.5,Retail,2025-02-06 00:00:00,36000,Delivered,0.1,WhatsApp,1,78000,2025-01-25 00:00:00,1056,Cheque,Pending,Yes,1332890,23,Faith Achieng,1,1123000,1337000,1,2026,208
+308,57,Winnie Wanjiku,3.3,Car Dealer,2025-08-27 00:00:00,143000,Delivered,0.15,Instagram,1,139000,2025-08-15 00:00:00,1055,Cheque,Paid,,3448650,,Peter Kiptoo,1,3176000,3889000,1,2021,209
+309,57,Joseph Mugambi,2.1,N.G.O,2025-12-23 00:00:00,138000,Cancelled,0.12,Walk-In,1,104000,2025-12-11 00:00:00,1054,M-Pesa,Cancelled,No,0,34,Mercy Atieno,1,3477000,4093000,1,2019,210
+310,64,James Muthoni,5,Person,,71000,Delivered,0.12,Walk-In,1,-101000,2026-02-06 00:00:00,1053,Bank Transfer,Paid,Yes,9230000,34,Aisha Mohamed,1,3060000,,,2023,211
+311,23,Peter Kiptoo,2.6,Government,2025-07-16 00:00:00,40000,Delivered,0.1,Instagram,1,37000,2025-06-21 00:00:00,1052,Cheque,Paid,No,2559500,22,Mary  Wanjiku,1,2220000,,1,2021,212
+312,35,Hassan Kimani,3.6,Car Dealer,2026-05-20 00:00:00,70000,In Transit,0.05,Facebook,1,89000,2026-05-16 00:00:00,1051,M-Pesa,Pending,Yes,4814300,12,Brian Otieno,1,4186000,4994000,1,2016,213
+313,40,Daniel Kimani,2.8,Person,,152000,Delivered,,Facebook,1,136000,2025-03-06 00:00:00,1050,Asset Finance,Complete,No,4733850,23,Peter Kiptoo,1,4086000,4823000,1,2025,214
+314,59,Mercy Ochieng,4.6,Government,2025-09-14 00:00:00,134000,Completed,0.05,Website,1,184000,,1049,Cheque,Refunded,No,0,2,Grace Njeri,1,4089000,4654000,1,2017,215
+315,59,Brian Ochieng,4.4,Company,2025-05-12 00:00:00,615000,At Yard,,Website,1,124000,2025-11-26 00:00:00,1048,Cheque,Complete,Yes,23668,6,Mercy Atieno,1,1948000,2142000,2,2025,216
+316,54,Mercy Mohamed,2.2,Person,2026-04-26 00:00:00,426.67,In Transit,0.15,Tender,1,74000,2026-04-16 00:00:00,1047,Asset Finance,Complete,No,1914450,42,Faith Achieng,1,1699000,2177000,1,2021,217
+317,48,Hassan Maina,2.5,Person,2025-08-26 00:00:00,70000,Done,0,Referral,1,86000,,1045,Cheque,Paid,Yes,6830000,29,Peter  Kiptoo,1,5654000,6760000,1,2020,218
+318,36,Faith Achieng,4.4,Retail,2025-09-06 00:00:00,50000,Delivered,0.02,Facebook,1,34000,2025-08-15 00:00:00,1044,Bank Transfer,Partially Paid,Yes,8926840,38,Faith  Achieng,1,3848000,4529000,2,2021,219
+319,27,Daniel Otieno,2.1,N.G.O,2025-11-13 00:00:00,31000,Done,0.02,Corporate Tender,1,59000,2025-10-18 00:00:00,1043,Cheque,Pending,No,3702080,24,Grace Njeri,1,3299000,24973.33,1,2016,220
+320,,Brian Ochieng,4.6,Company,,118000,In Transit,0.07,Walk-In,1,130000,2025-03-11 00:00:00,1042,Cheque,Paid,Yes,7976499,5,Daniel Kimani,1,,4225000,2,2026,221
+321,42,Victor Kiptoo,4.9,N.G.O,2025-01-27 00:00:00,157000,Completed,0,Call,1,122000,2025-01-07 00:00:00,1041,Asset Finance,Deposit Paid,No,2965500,35,Aisha Mohamed,1,917000,1050000,3,2025,222
+322,25,Grace Kariuki,2.7,N.G.O,2025-11-26 00:00:00,84000,In Transit,0.1,Corporate Tender,1,68000,2025-11-15 00:00:00,1040,Asset Finance,Paid,Yes,1173000,14,Peter,1,961000,1210000,1,2015,223
+323,28,James Wafula,3.3,N.G.O,2026-05-05 00:00:00,106000,Delivered,0.12,Instagram,1,84000,2026-04-05 00:00:00,1039,Cheque,Paid,,-611199,33,Peter Kiptoo,1,2977000,3586000,1,2020,224
+324,68,Kevin Kimani,2.3,Government,2025-05-02 00:00:00,146000,Cancelled,0.03,Walk-In,1,129000,2025-04-11 00:00:00,1038,Bank Transfer,Cancelled,No,0,40,Mercy Atieno,1,2388000,,-1,2026,225
+325,53,Faith Otieno,2.1,Person,2025-01-24 00:00:00,104000,Delivered,0.15,WhatsApp,1,89000,2025-01-05 00:00:00,1036,Cheque,Pending,No,3167400,1,Aisha Mohamed,1,,3604000,1,2026,226
+326,56,Grace Kimani,4.6,N.G.O,2025-04-15 00:00:00,89000,Delivered,0.07,WhatsApp,1,141000,2025-03-16 00:00:00,1035,M-Pesa,Partially Paid,No,14020000,41,Mary Wanjiku,1,3872000,665733.33,3,2020,227
+327,46,Daniel Kiptoo,4,N.G.O,2025-07-25 00:00:00,111000,Delivered,0.1,Website,1,108000,2025-06-29 00:00:00,1034,M-Pesa,Pending,No,18914700,22,Mary Wanjiku,1,5896000,7374000,3,2019,228
+328,32,Mercy Chebet,6,N.G.O,2026-04-16 00:00:00,154000,In Transit,0.1,Corporate Tender,1,142000,2026-03-23 00:00:00,1033,M-Pesa,Complete,No,3438100,2,Samuel Mutua,1,3229000,3649000,1,2024,229
+329,25,James Kiptoo,4.3,Government,2026-01-28 00:00:00,29000,Delivered,0.05,WhatsApp,1,36000,2026-01-26 00:00:00,1031,M-Pesa,Paid,No,4135850,8,Mercy,1,1246000,1441000,3,2026,230
+330,36,Linda Wafula,4,Government,2026-02-11 00:00:00,50000,Cancelled,0.12,Website,1,,2026-01-12 00:00:00,1030,M-Pesa,Complete,No,3512280,10,Brian Otieno,1,,3931000,1,2020,231
+331,50,Null,3.7,Government,2026-06-06 00:00:00,155000,Delivered,,Website,1,1400,2026-05-27 00:00:00,1029,Cheque,Partially Paid,Yes,8588180,44,Brian Otieno,1,1010000,1242000,7,2020,232
+332,121,Kevin Nyambura,5,Company,2026-02-02 00:00:00,25000,Completed,0.5,WhatsApp,1,52000,2026-01-06 00:00:00,1028,Asset Finance,Paid,Yes,480250,3,Mercy Atieno,1,1538000,1871000,1,2020,233
+333,38,Brian Kimani,3.5,Government,2025-05-08 00:00:00,119000,Delivered,0.12,Facebook,1,133000,2025-04-23 00:00:00,1027,Bank Transfer,Paid,Yes,7103560,39,Aisha Mohamed,1,6868000,7937000,1,2020,234
+334,,N/A,3.5,Company,2025-10-30 00:00:00,86000,Delivered,0.15,Call,1,137000,2025-10-17 00:00:00,1026,M-Pesa,Paid,Yes,23367500,36,Faith Achieng,1,94900,91300,2,2022,235
+335,55,Mary Kimani,3.1,Government,2025-04-05 00:00:00,43000,In Transit,0.02,Referral,1,65000,2025-04-16 00:00:00,1025,M-Pesa,Paid,Yes,8007460,34,Daniel Kimani,1,6600000,8127000,1,2023,236
+336,54,Hassan Kariuki,3.2,N.G.O,,192.31,On The Way,0.1,Phone Call,1,55000,2026-02-23 00:00:00,1024,Bank Transfer,Complete,No,4557400,25,Kevin  Mwangi,1,4380000,671466.67,1,2025,237
+337,42,Hassan Maina,3.7,Government,2026-05-08 00:00:00,120000,At Yard,0,Website,1,190000,2026-04-11 00:00:00,1023,Asset Finance,Refunded,Yes,0,24,Brian Otieno,1,12792.31,1946000,1,2021,238
+338,24,Joy Kariuki,,N/A,2025-08-28 00:00:00,39000,"",0.03,WhatsApp,1,42000,2025-08-03 00:00:00,1022,M-Pesa,Paid,Yes,1213570,22,Faith Achieng,1,6520,,2,2026,239
+339,55,Carol Kariuki,2,Car Dealer,2025-01-23 00:00:00,66000,Delivered,0.05,Walk-In,1,86000,2025-01-10 00:00:00,1021,Cheque,Partially Paid,No,11914400,37,Mercy Atieno,1,10456000,12472000,1,2020,240
+340,46,Peter Mohamed,2.2,Government,,93000,In Transit,0.15,Facebook,1,127000,2025-11-08 00:00:00,1020,Bank Transfer,Deposit Paid,No,11188400,11,Peter Kiptoo,1,5411000,6472000,1,,241
+341,50,Mercy Mugambi,4.7,Government,2026-01-15 00:00:00,68000,Delivered,0,WhatsApp,1,73000,2026-01-08 00:00:00,1020,M-Pesa,Partially Paid,Yes,4267000,24,Samuel  Mutua,1,-3467000,4199000,1,2020,242
+342,58,Brian Njeri,3,Government,2026-07-15 00:00:00,17000,Delivered,,Referral,1,238.46,2026-06-19 00:00:00,1019,Asset Finance,Pending,No,10183000,0,Kevin Mwangi,1,4954000,-5980000,2,2015,243
+343,63,Kevin Mwangi,3.5,Person,2025-02-15 00:00:00,0,In Transit,0.12,Walk-In,1,,2025-12-02 00:00:00,1017,M-Pesa,Pending,No,11794600,29,Kevin Mwangi,1,10535000,13290000,1,2023,244
+344,61,Brian Ochieng,4,Car Dealer,2026-02-23 00:00:00,17000,Done,0.15,Corporate Tender,1,30000,2026-01-29 00:00:00,1016,Cheque,Paid,No,8228000,9,Mercy Atieno,1,2480000,3220000,3,2018,245
+345,68,James Kariuki,3.8,N.G.O,2025-11-29 00:00:00,,Delivered,,Walk-In,1,142000,,1015,Bank,Paid,Yes,1231625,6,Grace,1,2428000,2745000,1,2024,246
+346,60,Brian Kimani,,Government,2025-05-19 00:00:00,0,At Yard,0.05,Corporate Tender,1,37000,2025-04-21 00:00:00,1014,M-Pesa,Complete,No,-10079600,22,Grace Njeri,1,,2637000,4,2023,247
+347,47,Brian Mwangi,4.2,Car Dealer,,43000,Cancelled,0.05,Walk-In,1,42000,2026-05-14 00:00:00,1013,Bank Transfer,Cancelled,Yes,0,9,Grace Njeri,1,9240000,10695000,3,2021,248
+348,53,Samuel Nyambura,3.9,Retail,2025-10-18 00:00:00,103000,Delivered,0.03,Walk-In,1,,2025-10-11 00:00:00,1012,Cheque,Pending,No,9261740,19,Brian Otieno,1,3990000,4721000,2,,249
+349,30,Grace Mutua,3.6,Government,2025-06-17 00:00:00,114000,Completed,0.1,Facebook,1,120000,2025-02-06 00:00:00,1011,Bankers Cheque,Paid,Yes,1814160,9,Kevin Mwangi,1,1648000,12880,1,2026,250
+350,38,Daniel Wafula,3.6,Company,2026-05-01 00:00:00,29000,Delivered,0.07,Corporate Tender,1,75000,,1010,Asset Finance,Paid,Yes,24633.73,,Samuel Mutua,1,3297000,3942000,1,2026,251
+351,45,Mercy Wanjiku,,Company,2025-04-30 00:00:00,140000,Cancelled,0.07,Corporate Tender,1,188000,2025-04-09 00:00:00,1009,M-Pesa,Complete,No,,1,Kevin Mwangi,1,2588000,2920000,1,,252
+352,22,Winnie Kiptoo,3.8,Non Profit,2025-05-10 00:00:00,174000,Delayed,0.07,Facebook,1,207000,2025-02-21 00:00:00,1008,Cheque,Partially Paid,No,12766200,17,Faith Achieng,1,5980000,6770000,2,2020,253
+353,44,Kevin Maina,,Car Dealer,2025-01-19 00:00:00,20000,Cancelled,0.12,WhatsApp,1,42000,2025-01-14 00:00:00,1007,Rtgs,Cancelled,No,-1627199,18,Aisha Mohamed,1,13353.85,13893.33,2,2026,254
+354,48,James Muthoni,2.5,Government,2025-10-27 00:00:00,80000,Delivered,0,Instagram,1,100000,2025-10-20 00:00:00,1006,Asset Finance,Pending,,2244000,10,Faith Achieng,1,1847000,2166000,1,2026,255
+355,27,Carol Mwangi,4.6,Company,2025-02-10 00:00:00,112000,Delivered,0.05,Phone Call,1,19733.33,2025-01-17 00:00:00,1005,Cheque,Pending,Yes,80489.67,1,Samuel Mutua,1,3456000,4200000,3,2023,256
+356,64,Samuel Mutua,4.4,Person,2026-03-20 00:00:00,75000,Done,0.02,WhatsApp,1,,2026-03-17 00:00:00,1004,Cheque,Paid,No,4762340,42,Grace Njeri,1,4203000,4783000,1,2023,257
+357,42,Carol Ochieng,2.6,Government,2026-02-25 00:00:00,88000,In Transit,0.03,Website,1,118000,2026-02-15 00:00:00,1003,Cheque,Pending,No,1872800,,Samuel Mutua,1,1661000,1840000,1,2018,258
+358,46,Naomi Muthoni,4.4,Person,2025-06-04 00:00:00,51000,Delayed,0.1,Facebook,1,82000,2025-03-26 00:00:00,1002,Cheque,Paid,Yes,3044400,36,Daniel Kimani,1,2562000,3326000,1,2018,259
+359,46,Carol Maina,4.5,Company,2026-02-13 00:00:00,162000,Held,0.1,Facebook,1,213000,2026-01-19 00:00:00,1001,Asset Finance,Complete,,9140000,17,Mary Wanjiku,1,37106.67,6708000,3,2016,260
+360,54,Joy Wanjiku,4.5,N.G.O,2025-08-30 00:00:00,39000,At Yard,0.07,Walk-In,1,56000,2025-08-29 00:00:00,1000,Cheque,Paid,No,-22738440,2,Mary Wanjiku,1,6986000,8136000,3,2016,261
+361,53,Daniel Mugambi,4.6,Government,2026-06-16 00:00:00,35000,Delivered,0.03,Walk-In,1,34000,2026-06-05 00:00:00,"",Asset Finance,Complete,Yes,5835600,41,Grace  Njeri,1,4660000,5980000,,2019,262
+362,43,Kevin Chebet,,Person,2025-07-14 00:00:00,35000,Cancelled,0.03,WhatsApp,1,77000,2025-07-10 00:00:00,"",Loan,Cancelled,No,1894490,19,Samuel Mutua,1,1735000,1917000,1,2023,263
+363,35,Faith Mwangi,,Non Profit,2025-06-07 00:00:00,141000,Delivered,0.07,Corporate Tender,1,131000,2025-05-16 00:00:00,"",Bank Transfer,Paid,No,4798440,9,Mary Wanjiku,1,1112000,1252000,4,2018,264
+364,47,Faith Mohamed,4,Government,2025-05-03 00:00:00,167000,Completed,0,Facebook,1,244000,2025-04-27 00:00:00,"",Cheque,Paid,No,33100,26,Mercy Atieno,1,4154000,4798000,1,2018,265
+365,24,Winnie Wafula,,N.G.O,2026-09-04 00:00:00,72000,Delivered,0.12,Website,1,91000,2026-03-23 00:00:00,"",Asset Finance,Partially Paid,No,12319840,,Faith Achieng,1,5484000,6959000,2,2015,266
+366,60,Winnie Achieng,2.4,Government,,90000,Cancelled,0.15,Instagram,1,138000,2025-01-10 00:00:00,"",M-Pesa,Complete,Yes,4261800,16,Samuel Mutua,1,1295000,1636000,3,2025,267
+367,61,John Mugambi,4.2,Company,2026-03-15 00:00:00,100000,Delivered,0.12,Referral,1,,2026-02-13 00:00:00,"",Asset Finance,Complete,No,1878480,23,Grace Njeri,1,240533.33,2021000,1,2023,268
+368,42,John Kiptoo,4.4,Government,2026-04-10 00:00:00,179000,Delivered,0.05,Instagram,1,152000,2026-04-03 00:00:00,"",Asset Finance,Unpaid,Yes,11727200,38,Peter Kiptoo,1,10364000,81040,1,2017,269
+369,47,Mercy Kariuki,3.9,Person,,140000,At Yard,0.07,Instagram,1,159000,2026-02-14 00:00:00,"",Asset Finance,Pending,Yes,3540730,26,Grace Njeri,1,3247000,3661000,1,2025,270
+370,60,Joy Mugambi,2.5,Company,2025-11-21 00:00:00,145000,At Yard,0.1,Referral,1,222000,2025-11-17 00:00:00,"",M-Pesa,Refunded,No,,15,Samuel Mutua,1,1692000,1950000,7,2021,271
+371,58,Brian Ochieng,2.7,Retail,2026-04-09 00:00:00,106000,Cancelled,,Corporate Tender,1,75000,2026-03-21 00:00:00,"",M-Pesa,Cancelled,No,4382800,39,Faith Achieng,1,2087000,2430000,2,2021,272
+372,68,John Mohamed,3.2,Car Dealer,2026-03-06 00:00:00,55000,Delivered,0.12,Website,1,102000,2026-02-08 00:00:00,"",Wire,Paid,No,1214620,41,Mary Wanjiku,1,1170000,1349000,2,2022,273
+373,35,Naomi Nyambura,2.8,Company,2026-01-18 00:00:00,82000,In Transit,0.1,Instagram,1,85000,2025-12-21 00:00:00,"",Cheque,Paid,No,438133.33,27,Mercy Atieno,1,3030000,3560000,-1,2023,274
+374,43,Faith Kiptoo,4.3,Company,2025-12-12 00:00:00,111000,In Transit,0.012,Phone Call,1,124000,2025-11-24 00:00:00,"",M-Pesa,Paid,Yes,-1480999,14,Kevin Mwangi,1,1347000,1592000,5,2020,275
+375,33,Kevin Kimani,5,N.G.O,2026-05-16 00:00:00,117000,Delivered,0.15,Phone Call,1,170000,2026-04-18 00:00:00,"",Asset Finance,Paid,Yes,8609350,10,Mercy,1,8484000,9991000,1,2020,276
